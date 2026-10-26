@@ -7,7 +7,6 @@ google.com, pub-8582819027615273, DIRECT, f08c47fec0942fa0
 ironsrc.com, 688669, DIRECT
 
 # ironSource authorized resellers, from docs.unity.com ironsource-exchange/app-ads-txt (2026-10-06)
-ironsrc.com, [yourironSourcePublisherAccountID], Direct
 media.net, 8CUH2L333, RESELLER
 sharethrough.com, 3817, RESELLER, d53b998a7bd4ecd2
 playdigo.com, 1956, RESELLER
